@@ -1,6 +1,11 @@
 # ONFA Wallet Assets Info
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://onfa.io/templates/images/logo.webp">
+<img src="https://onfa.io/templates/images/logo.webp" alt="ONFA" style="max-width: 100%;">
+</a>
+</p>
 
-![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
+Url Smart Contract BEP20: <a target="_blank" rel="noopener noreferrer" href="https://bscscan.com/token/0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126"></a>
 
 ## Disclaimer
 
